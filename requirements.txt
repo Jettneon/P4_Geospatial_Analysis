@@ -1,0 +1,6 @@
+pandas==1.5.3
+sqlite3==3.36.0
+matplotlib==3.7.1
+seaborn==0.12.2
+geopandas==0.12.2
+folium==0.14.0
